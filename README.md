@@ -14,3 +14,8 @@ MENTOR : NEELA SANTOSH
 
 
 DESCRIPTION : An AI Chatbot with NLP (Natural Language Processing) is an intelligent conversational system designed to simulate human-like interactions by understanding, processing, and responding to user inputs in natural language. It leverages machine learning, linguistic rules, and NLP techniques such as tokenization, stemming, named entity recognition, and sentiment analysis to comprehend the intent and context of user messages. These chatbots can be deployed in various platforms like websites, mobile apps, and messaging services to assist with customer service, information retrieval, or task automation. The integration of NLP enables the chatbot to go beyond pre-defined commands, allowing it to interpret user queries more accurately, manage dynamic conversations, and improve its responses over time through continuous learning and feedback mechanisms.
+
+
+OUTPUT :
+
+<img width="1763" height="950" alt="Image" src="https://github.com/user-attachments/assets/5f1ff189-ae9f-4dc7-877d-8d9b2b6b78e0" />
